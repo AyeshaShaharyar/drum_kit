@@ -1,0 +1,14 @@
+{
+  "name": "drum_kit",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://AyeshaShaharyar.github.io/drum_kit",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Ayesha Saleem",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
